@@ -1,4 +1,4 @@
-public class linear_search{
+public class max_number{
     public static int search(int[] numbers){
         int maxnumber = numbers[0];
 
