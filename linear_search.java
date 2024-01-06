@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class linear_search {
     public static int linear(int[] numbers, int e){
         for (int i = 0; i < numbers.length; i++){
@@ -18,3 +19,6 @@ public class linear_search {
         }
     }
 }
+=======
+
+>>>>>>> 752854b6d746afef413d5fd87bdd52fabc79839b
